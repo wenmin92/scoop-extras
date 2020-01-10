@@ -1,0 +1,25 @@
+{
+    "homepage": "https://letsview.com/",
+    "description": "An free wireless screen mirroring app, which allows to display phone screen on computer/TV wirelessly",
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://letsview.com/end-user-license-agreement"
+    },
+    "version": "1.0.3.4",
+    "url": "http://dlqn.aoscdn.com/letsview.exe#/dl.exe",
+    "hash": "",
+    "innosetup": true,
+    "shortcuts": [
+        [
+            "LetsView.exe",
+            "LetsView"
+        ]
+    ],
+    "checkver": {
+        "url": "",
+        "regex": ""
+    },
+    "autoupdate": {
+        "url": "http://dlqn.aoscdn.com/letsview.exe#/dl.exe"
+    }
+}
