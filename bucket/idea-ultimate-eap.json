@@ -1,22 +1,19 @@
 {
-    "version": "202.7319.5",
+    "version": "203.5251.39",
     "description": "Early Access Program for IntelliJ IDEA Ultimate Edition",
     "homepage": "https://www.jetbrains.com/idea/",
     "license": {
         "identifier": "Shareware",
         "url": "https://www.jetbrains.com/legal/agreements/user_eap.html"
     },
-    "notes": "Please restart your command line for changes to take effect.",
-    "url": "https://download.jetbrains.com/idea/ideaIU-202.7319.5.win.zip",
-    "hash": "42bd1e04c4c22d2d4d5ae4479b41a06e3331b1a7685e3e1442cab54d3cd553f2",
-    "bin": "bin\\idea.bat",
-    "env_add_path": "bin",
+    "url": "https://download.jetbrains.com/idea/ideaIU-203.5251.39.win.zip",
+    "hash": "e54c4dbe72c8b049edf283ffa355b3eab917a49d7c56829481b28f63b4495b12",
     "architecture": {
         "64bit": {
             "bin": "bin\\idea64.exe",
             "shortcuts": [
                 [
-                    "bin/idea64.exe",
+                    "bin\\idea64.exe",
                     "IntelliJ IDEA Ultimate EAP"
                 ]
             ]
@@ -25,7 +22,7 @@
             "bin": "bin\\idea.exe",
             "shortcuts": [
                 [
-                    "bin/idea.exe",
+                    "bin\\idea.exe",
                     "IntelliJ IDEA Ultimate EAP"
                 ]
             ]

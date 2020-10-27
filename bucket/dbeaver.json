@@ -1,5 +1,5 @@
 {
-    "version": "7.2.1",
+    "version": "7.2.3",
     "description": "Database tool for developers, SQL programmers, database administrators and analysts",
     "homepage": "https://dbeaver.io",
     "license": "Apache-2.0",
@@ -12,8 +12,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://dbeaver.io/files/7.2.1/dbeaver-ce-7.2.1-win32.win32.x86_64.zip",
-            "hash": "db2558b2d5e3483c78ca3dc48672ca1a87e69de1cb11ea4f216d26a5dcf9cbd0"
+            "url": "https://dbeaver.io/files/7.2.3/dbeaver-ce-7.2.3-win32.win32.x86_64.zip",
+            "hash": "545beda6cd24d37979e5a252be1c4e8026bc086a6ff944e4fbd36dedd1a63916"
         }
     },
     "extract_dir": "dbeaver",

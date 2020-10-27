@@ -1,13 +1,13 @@
 {
-    "version": "0.25.0",
+    "version": "0.26.0",
     "description": "Nteract and create with data, words, and visuals.",
     "homepage": "https://nteract.io",
     "license": "BSD-3-Clause",
     "notes": "Instructions for downloading more kernels can be found at: https://nteract.io/kernels",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nteract/nteract/releases/download/v0.25.0/nteract-setup-0.25.0.exe#/dl.7z",
-            "hash": "sha512:165de4eb33fc8827296ec0b88cb00aec298c97b931c1ee088d2c6157767cfdc3297c7222c1eaea27cd0186aa450bf2237715631b9dec2fbe59b5ddf641892033",
+            "url": "https://github.com/nteract/nteract/releases/download/v0.26.0/nteract-setup-0.26.0.exe#/dl.7z",
+            "hash": "sha512:734a4aaef6f7e3e3089253b47e193c559e85a61cc1624d95c597cffb44f0b682cf2745c7a285931371542117435897da25f86afaf91bd39c8ecbfbc90c3f073f",
             "installer": {
                 "script": [
                     "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
