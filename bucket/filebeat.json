@@ -1,4 +1,5 @@
 {
+    "#": "这样安装后, 命令无法使用",
     "version": "7.9.1",
     "description": "Lightweight shippers for Elasticsearch & Logstash",
     "homepage": "https://www.elastic.co/beats/filebeat",
@@ -19,7 +20,7 @@
         }
     },
     "bin": [
-        "filebeat.exe",
+        "filebeat.exe -c \"$dir\\filebeat.yml\"",
         "install-service-filebeat.ps1",
         "uninstall-service-filebeat.ps1"
     ],
